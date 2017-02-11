@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int custo = 0;
+int custo=0;
 
 typedef struct Edge {
         int o, d, p;
